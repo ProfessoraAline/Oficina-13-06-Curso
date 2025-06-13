@@ -55,7 +55,7 @@ button {
 }
 
 button:hover {
-    background-color: darkred;
+    background-color: rgb(182, 10, 110);
 }
 
 p {
